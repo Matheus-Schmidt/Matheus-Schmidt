@@ -2,9 +2,10 @@
 
 
 - 🌱 I’m currently learning NodeJs, PHP, Jquery and Mysql;
+- 🌎 Spoken languages: Portuguese(Brazil) and English
 - 📫 How to reach me: 
-- cellphone: +55 (51) 99281-9790
-- Gmail: matheusa2412@gmail.com
+cellphone: +55 (51) 99281-9790
+Gmail: matheusa2412@gmail.com
 - 😄 Pronouns: he/his
 <div>
   <a href="https://github.com/Matheus-Schmidt">
